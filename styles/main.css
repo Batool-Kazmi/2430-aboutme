@@ -28,16 +28,17 @@ h3 {
 }
 
 h1 {
-  font-size: 4em;
-  font-weight: 900;
-  text-shadow: 0.02em 0.04em #403d58;
-  color: deeppink;
+    font-size: 4em;
+    font-weight: 900;
+    text-shadow: 0.02em 0.04em #403D58;
+    color: rebeccapurple;
 }
 
 h2 {
-  border-bottom: 0.1em solid #66d7d1;
-  padding: 0.25em;
-  margin: 1.6em 0;
+    border-bottom: 0.1em solid #66D7D1;
+    padding: 0.75em;
+    margin: 1.6em 0;
+    text-shadow: 0.02em 0.04em deeppink;
 }
 
 section p {
